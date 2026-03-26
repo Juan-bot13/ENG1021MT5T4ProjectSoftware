@@ -10,7 +10,7 @@ public class Driver {
     About:The main driver
      */
     public static void main(String[] args) { //yo
-
+        System.out.println("hello");
     }
 
     public static void alarm(int interval){
